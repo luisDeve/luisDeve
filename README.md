@@ -2,7 +2,7 @@
 <h3 align="center">I am a frontend developer I like to create web pages, I am passionate about learning new technologies, at the moment I am learning JavaScript and Tailwindcss.</h3>
 
 
-- 🌱 At this moment I am learning **Tailwindcss, Javascript**
+- 🌱 At this moment I am learning ** Javascript**
 
 - 📫How to contact me **luisangeldev0@gmail.com**
 
